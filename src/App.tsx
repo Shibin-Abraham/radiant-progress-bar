@@ -1,5 +1,6 @@
 import { VariantCard } from "./components"
 import { variants } from "./data/variants"
+import "./App.css"
 
 function App() {
   return (
