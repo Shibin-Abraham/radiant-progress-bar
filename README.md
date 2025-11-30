@@ -1,7 +1,7 @@
 # RadiantProgressBar
 
 <a href="https://www.npmjs.com/package/radiant-progress-bar">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.svg" alt="npm" width="120" />
 </a>
 
 [![npm version](https://img.shields.io/npm/v/radiant-progress-bar.svg)](https://www.npmjs.com/package/radiant-progress-bar)
