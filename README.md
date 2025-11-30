@@ -1,11 +1,13 @@
 # RadiantProgressBar
 
+<a href="https://www.npmjs.com/package/radiant-progress-bar">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+</a>
+
 [![npm version](https://img.shields.io/npm/v/radiant-progress-bar.svg)](https://www.npmjs.com/package/radiant-progress-bar)
 [![npm downloads](https://img.shields.io/npm/dm/radiant-progress-bar.svg)](https://www.npmjs.com/package/radiant-progress-bar)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/radiant-progress-bar)](https://bundlephobia.com/package/radiant-progress-bar)
 [![license](https://img.shields.io/npm/l/radiant-progress-bar.svg)](https://github.com/user/radiant-progress-bar/blob/main/LICENSE)
-
-**[View on npm](https://www.npmjs.com/package/radiant-progress-bar)**
 
 A beautiful, customizable circular progress bar component for React with gradient support and smooth animations.
 
