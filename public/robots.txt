@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shibin-abraham.github.io/radiant-progress-bar/sitemap.xml

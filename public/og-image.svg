@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#111827"/>
+      <stop offset="100%" style="stop-color:#1f2937"/>
+    </linearGradient>
+    <linearGradient id="progress" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6"/>
+      <stop offset="100%" style="stop-color:#8b5cf6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Progress Circle -->
+  <g transform="translate(300, 315)">
+    <circle cx="0" cy="0" r="120" fill="none" stroke="#374151" stroke-width="16"/>
+    <circle cx="0" cy="0" r="120" fill="none" stroke="url(#progress)" stroke-width="16" stroke-linecap="round" stroke-dasharray="565 754" transform="rotate(-90)"/>
+    <text x="0" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="white">75%</text>
+  </g>
+
+  <!-- Text -->
+  <text x="700" y="260" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="white">RadiantProgressBar</text>
+  <text x="700" y="330" font-family="Arial, sans-serif" font-size="28" fill="#9ca3af">Circular Progress Bar for React</text>
+  <text x="700" y="400" font-family="Arial, sans-serif" font-size="22" fill="#6b7280">Gradient Support • TypeScript • Tailwind CSS</text>
+
+  <!-- npm badge -->
+  <rect x="700" y="440" width="120" height="40" rx="6" fill="#cb3837"/>
+  <text x="760" y="467" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">npm</text>
+</svg>
