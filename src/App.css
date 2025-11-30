@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Custom CSS override example for RadiantProgressBar */
+.custom-progress::before {
+  background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #312e81 100%) !important;
+}
+
+.custom-progress {
+  transition: transform 0.3s ease;
+}
+
+.custom-progress:hover {
+  transform: scale(1.05) rotate(5deg);
+}
