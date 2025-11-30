@@ -15,9 +15,9 @@ A beautiful, customizable circular progress bar component for React with gradien
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-## Live Demo
+## Links
 
-**[View Live Demo](https://shibin-abraham.github.io/radiant-progress-bar/)**
+**[View Live Demo](https://shibin-abraham.github.io/radiant-progress-bar/)** | **[View on npm](https://www.npmjs.com/package/radiant-progress-bar)**
 
 ## Installation
 
